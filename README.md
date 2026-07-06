@@ -22,6 +22,8 @@ The dataset can be found in Kaggle, see references.
 2. Download the datasets, see references.
 3. Run Phase 1 and then Phase 2 code
 
+Note: The analysis and results can be found in the .ipynb, there are no external reports created for this project.
+
 ## Author
 Jialun Darren Huang<br>
 Project Status: Completed, May 2025
